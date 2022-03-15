@@ -1,0 +1,7 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\CalculatorConsoleApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 1\Tugas app calculator\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 1\Tugas app calculator\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
